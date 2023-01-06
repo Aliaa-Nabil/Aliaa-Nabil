@@ -15,14 +15,14 @@
 ####  My Technical skills :
 <div align="center">
 <div>
-  <img src="./icons/ai.png" title="HTML5" alt="HTML" />&nbsp;
-  <img src="./icons/boot.png"  title="CSS3" alt="CSS" />&nbsp;
-  <img src="./icons/css.png" title="JavaScript" alt="JavaScript" />&nbsp;
-  <img src="./icons/html.png" title="TailwindCSS" alt="TailwindCSS"  />&nbsp;
-  <img src="./icons/js (2).png" title="Git" alt="Git" />
-  <img src="./icons/ps.png" title="Xd" alt="Xd"/>
-  <img src="./icons/react.png" title="Figma" alt="Figma" />
-  <img src="./icons/xd.png" title="VSCode" alt="VSCode"/>
+  <img src="./icons/ai.png" title="HTML5" alt="HTML" width="50" />&nbsp;
+  <img src="./icons/boot.png"  title="CSS3" alt="CSS" width="50"  />&nbsp;
+  <img src="./icons/css.png" title="JavaScript" alt="JavaScript" width="50"  />&nbsp;
+  <img src="./icons/html.png" title="TailwindCSS" alt="TailwindCSS" width="50"   />&nbsp;
+  <img src="./icons/js (2).png" title="Git" alt="Git" width="50"  />
+  <img src="./icons/ps.png" title="Xd" alt="Xd" width="50" />
+  <img src="./icons/react.png" title="Figma" alt="Figma" width="50"  />
+  <img src="./icons/xd.png" title="VSCode" alt="VSCode" width="50" />
  
 </div>
 </div>
