@@ -19,10 +19,10 @@
   <img src="./icons/boot.png"  title="CSS3" alt="CSS" />&nbsp;
   <img src="./icons/css.png" title="JavaScript" alt="JavaScript" />&nbsp;
   <img src="./icons/html.png" title="TailwindCSS" alt="TailwindCSS"  />&nbsp;
-  <img src="./icons/js (2).png" title="Git" alt="Git" />&nbsp;
-  <img src="./icons/ps.png" title="Xd" alt="Xd"/> &nbsp;
-  <img src="./icons/react.png" title="Figma" alt="Figma" />&nbsp;
-  <img src="./icons/xd.png" title="VSCode" alt="VSCode"/>&nbsp;
+  <img src="./icons/js (2).png" title="Git" alt="Git" />
+  <img src="./icons/ps.png" title="Xd" alt="Xd"/>
+  <img src="./icons/react.png" title="Figma" alt="Figma" />
+  <img src="./icons/xd.png" title="VSCode" alt="VSCode"/>
  
 </div>
 </div>
