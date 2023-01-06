@@ -1,9 +1,6 @@
 
 # Hey there :wave:, I'm Aliaa 
 
-
-
-
 <img align="right" alt="" height="200px" src="./icons/bg-2-01.png" />
 
 ### A few things about me
@@ -13,11 +10,7 @@
 <!-- - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
  - Currently working on a web application for film photography and for international travel -->
 
-<br>
-
----
-
-####  My Technical skills :
+##  My Technical skills :
 <div align="center">
 <div>
   <img src="./icons/ai.png" title="HTML5" alt="HTML" width="50" />&nbsp;
@@ -40,7 +33,6 @@
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
- 
  
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
