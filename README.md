@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="GIF" height="160px" src="./icons/bg-2-01.png" />
+<img align="right" alt="" height="200px" src="./icons/bg-2-01.png" />
 
 ### A few things about me
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.
