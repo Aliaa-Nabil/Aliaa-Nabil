@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="./icons/bg-2-01.png" />
 
 ### A few things about me
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.
@@ -18,7 +18,7 @@
 ---
 
 ####  My Technical skills :
-<div align="">
+<div align="center">
 <div>
   <img src="./icons/ai.png" title="HTML5" alt="HTML" width="50" />&nbsp;
   <img src="./icons/boot.png"  title="CSS3" alt="CSS" width="50"  />&nbsp;
