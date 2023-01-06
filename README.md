@@ -27,14 +27,14 @@
 #### :hammer_and_wrench: LANGUAGES & TOOLS :
 <div align="center">
 <div>
-  <img src="./tiny-01.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="./icons/ai.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="./icons/boot.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="./icons/css.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="./icons/html.png" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
+  <img src="./icons/js (2).png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="./icons/ps.png" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;
+  <img src="./icons/react.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="./icons/xd.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
  
 </div>
 </div>
