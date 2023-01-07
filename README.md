@@ -3,6 +3,7 @@
 ## 👋 Hi there , I'm Aliaa :
 
 <img align="right" alt="" height="150px" src="./icons/bg-2-01.png" />
+<br>
 
 - 🔍 I'm a curiosity driven junior Front-end developer with a background in design.
 - 💻 I enjoy learning new technologies and bringing static designs and concepts to life.
@@ -12,6 +13,7 @@
 
 
 ## 🧰 My Skills :
+<br>
 
 <div align="left">
 <div>
@@ -28,8 +30,9 @@
 
 
 ## 📫 Reach me at :
+<br>
 
-<div id="badges" align="center">
+<div id="badges" align="right">
   <a href="https://aliaanabil.vercel.app/">
     <img src="https://img.shields.io/badge/my website-blue?style=for-the-badge&logo=my website&logoColor=white&color=1347B4" alt="Website Badge" />
   </a>&nbsp;
