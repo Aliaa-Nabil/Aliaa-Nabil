@@ -12,6 +12,8 @@
 
 ## My Technical skills :
 
+
+
 <div align="center">
 <div>
 
@@ -27,18 +29,25 @@
 </div>
 
 ## 📫 Reach me at :
-<div id="badges" align ="center">
+
+<div id="badges" align="center">
+  <br><br>
   <a href="https://www.linkedin.com/in/aliaa-nabil/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
  
   <a href="aliaa.nabil.design@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+  </a>
+
+  <a href="https://aliaanabil.vercel.app/">
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=website&logoColor=white&color=1DA1F2" alt="Website Badge" />
   </a>&nbsp;
 
-  <a href="aliaanabil.vercel.app">
-    <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB" alt="Email Badge" />
-  </a>&nbsp;
+  
   
 </div>
 
