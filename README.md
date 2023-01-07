@@ -13,7 +13,7 @@
 
 ## 🧰 My Skills :
 
-<div align="right">
+<div align="left">
 <div>
 <img src="./icons/html.png" title="HTML5" alt="HTML5" width="50" />&nbsp;
 <img src="./icons/css.png" title="CSS3" alt="CSS3" width="50"  />&nbsp;
