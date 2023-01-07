@@ -13,15 +13,15 @@
 
 ## 🧰 My Skills :
 
-<div align="center">
+<div align="right">
 <div>
 <img src="./icons/html.png" title="HTML5" alt="HTML5" width="50" />&nbsp;
 <img src="./icons/css.png" title="CSS3" alt="CSS3" width="50"  />&nbsp;
 <img src="./icons/boot.png"  title="BOOTSTRAP" alt="BOOTSTRAP" width="50"  />&nbsp;
-<img src="./icons/ai.png" title="ILLUSTRATOR" alt="ILLUSTRATOR" width="50" />&nbsp;
 <img src="./icons/js (2).png" title="JavaScript" alt="JavaScript" width="50"  />&nbsp;
 <img src="./icons/react.png" title="REACT" alt="REACT" width="50"  />&nbsp;
 <img src="./icons/xd.png" title="ADOBE XD" alt="ADOBE XD" width="50" />
+<img src="./icons/ai.png" title="ILLUSTRATOR" alt="ILLUSTRATOR" width="50" />&nbsp;
   
 </div>
 </div>
