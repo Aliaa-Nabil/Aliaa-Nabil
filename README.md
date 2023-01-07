@@ -15,7 +15,6 @@
 
 <div align="center">
 <div>
-
 <img src="./icons/html.png" title="HTML5" alt="HTML5" width="50" />&nbsp;
 <img src="./icons/css.png" title="CSS3" alt="CSS3" width="50"  />&nbsp;
 <img src="./icons/boot.png"  title="BOOTSTRAP" alt="BOOTSTRAP" width="50"  />&nbsp;
@@ -26,6 +25,7 @@
   
 </div>
 </div>
+
 ---
 
 ## 📫 Reach me at :
@@ -35,8 +35,9 @@
   <a href="https://www.linkedin.com/in/aliaa-nabil/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
+
+  <a href="https://www.behance.net/aliaanabil">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" />
   </a>&nbsp;
  
   <a href="mailto:aliaa.nabil.design@gmail.com">
