@@ -9,8 +9,9 @@
 - 🎨 Skilled in creating responsive websites, UI Design, Branding and Logo illustration.
 - 🔭 Currently working on improving my React and javaScript skills.
 - ⚡ Available for Freelance projects/internship opportunities.
+---
 
-## My Technical skills :
+## 🧰 My Skills :
 
 <div align="center">
 <div>
@@ -25,7 +26,7 @@
   
 </div>
 </div>
-
+---
 ## 📫 Reach me at :
 
 <div id="badges" align="center">
