@@ -44,7 +44,7 @@
   </a>
 
   <a href="https://aliaanabil.vercel.app/">
-    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=website&logoColor=white&color=1DA1F2" alt="Website Badge" />
+    <img src="https://img.shields.io/badge/my website-black?style=for-the-badge&logo=my website&logoColor=white&color=1DA1F2" alt="Website Badge" />
   </a>&nbsp;
 
   
