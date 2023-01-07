@@ -2,14 +2,14 @@
 
 ## 👋 Hi there , I'm Aliaa :
 
-<img align="right" alt="" height="100px" src="./icons/bg-2-01.png" />
+<img align="right" alt="" height="150px" src="./icons/bg-2-01.png" />
 
 - 🔍 I'm a curiosity driven junior Front-end developer with a background in design.
 - 💻 I enjoy learning new technologies and bringing static designs and concepts to life.
 - 🎨 Skilled in creating responsive websites, UI Design, Branding and Logo illustration.
 - 🔭 Currently working on improving my React and javaScript skills.
 - ⚡ Available for Freelance projects/internship opportunities.
----
+
 
 ## 🧰 My Skills :
 
@@ -26,29 +26,23 @@
   
 </div>
 </div>
----
+
 
 ## 📫 Reach me at :
 
 <div id="badges" align="center">
-  <br><br>
+  <a href="https://aliaanabil.vercel.app/">
+    <img src="https://img.shields.io/badge/my website-blue?style=for-the-badge&logo=my website&logoColor=white&color=1347B4" alt="Website Badge" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/aliaa-nabil/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
- 
   <a href="mailto:aliaa.nabil.design@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
-  </a>&nbsp;
-
-  <a href="https://aliaanabil.vercel.app/">
-    <img src="https://img.shields.io/badge/my website-blue?style=for-the-badge&logo=my website&logoColor=white&color=1347B4" alt="Website Badge" />
   </a>
-
-  
-  
 </div>
 
 
