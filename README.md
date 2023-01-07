@@ -1,6 +1,6 @@
 
 
-### 👋 Hi there , I'm Aliaa
+### 👋 Hi there , I'm Aliaa :
 
 <img align="right" alt="" height="200px" src="./icons/bg-2-01.png" />
 
@@ -10,7 +10,7 @@
 - 🔭 Currently working on improving my React skills and understanding of java script to bring my ideas to life .
 - ⚡  Available for Freelance projects/internship opportunities.
 
-##  My Technical skills :
+### My Technical skills :
 <div align="center">
 <div>
   <img src="./icons/ai.png" title="HTML5" alt="HTML" width="50" />&nbsp;
@@ -25,10 +25,7 @@
 </div>
 </div>
 
-### 📫 Reach me at 
-![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
-
+### 📫 Reach me at :
 <div id="badges" align ="center">
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
