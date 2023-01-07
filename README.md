@@ -32,7 +32,7 @@
 ## 📫 Reach me at :
 <br>
 
-<div id="badges" align="right">
+<div id="badges" align="left">
   <a href="https://aliaanabil.vercel.app/">
     <img src="https://img.shields.io/badge/my website-blue?style=for-the-badge&logo=my website&logoColor=white&color=1347B4" alt="Website Badge" />
   </a>&nbsp;
