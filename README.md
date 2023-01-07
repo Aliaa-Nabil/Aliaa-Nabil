@@ -1,14 +1,14 @@
 
-# Hey there :wave:, I'm Aliaa 
+
+### 👋 Hi there , I'm Aliaa
 
 <img align="right" alt="" height="200px" src="./icons/bg-2-01.png" />
 
-### A few things about me
-- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
-- I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, Branding , Logo design , and social media marketing.
-<!-- - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
- - Currently working on a web application for film photography and for international travel -->
+- I'm a curiosity driven junior Front-end developer with a background in design.
+- I enjoy learning new technologies and bringing static designs and concepts to life.
+- Skilled in creating responsive websites, UI Design, Branding and Logo illustration .
+- 🔭 Currently working on improving my React skills and understanding of java script to bring my ideas to life .
+- ⚡  Available for Freelance projects/internship opportunities.
 
 ##  My Technical skills :
 <div align="center">
@@ -25,11 +25,11 @@
 </div>
 </div>
 
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
 
-
-## contact me:
 <div id="badges" align ="center">
-  <br><br>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
@@ -37,7 +37,6 @@
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
-  
   
 </div>
 
