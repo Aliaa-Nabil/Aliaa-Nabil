@@ -2,12 +2,12 @@
 
 ## 👋 Hi there , I'm Aliaa :
 
-<img align="right" alt="" height="200px" src="./icons/bg-2-01.png" />
+<img align="right" alt="" height="100px" src="./icons/bg-2-01.png" />
 
 - 🔍 I'm a curiosity driven junior Front-end developer with a background in design.
 - 💻 I enjoy learning new technologies and bringing static designs and concepts to life.
 - 🎨 Skilled in creating responsive websites, UI Design, Branding and Logo illustration.
-- 🔭 Currently working on improving my React skills and understanding of java script to bring my ideas to life.
+- 🔭 Currently working on improving my React and javaScript skills.
 - ⚡ Available for Freelance projects/internship opportunities.
 
 ## My Technical skills :
