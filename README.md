@@ -1,6 +1,6 @@
 
 
-## 👋 Hi there , I'm Aliaa :
+## 👋 Hello there , I'm Aliaa :
 
 <img align="right" alt="" height="150px" src="./icons/bg-2-01.png" />
 <br>
@@ -29,7 +29,7 @@
 </div>
 
 
-## 📫 Reach me at :
+## 📫 Contact me :
 <br>
 
 <div id="badges" align="left">
