@@ -12,7 +12,7 @@
 - ⚡ Available for Freelance projects/internship opportunities.
 
 
-## 🧰 My Skills :
+## 🧰 My_Skills :
 <br>
 
 <div align="left">
@@ -29,7 +29,7 @@
 </div>
 
 
-## 📫 Contact me :
+## 📫 Contact_me :
 <br>
 
 <div id="badges" align="left">
